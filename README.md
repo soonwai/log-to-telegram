@@ -1,4 +1,4 @@
-# log-to-telegram-bot
+# log-to-telegram
 A simple python script that monitors a log file for strings and sends notifications to Telegram.
 
 # Introduction
