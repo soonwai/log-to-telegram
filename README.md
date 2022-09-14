@@ -14,3 +14,7 @@ Of course, you can use it to monitor any log file.
 # Prerequisites
 - A Telegram bot (https://core.telegram.org/bots)
 	- Ensure that you configure telegram-send with your telegram API keys.
+
+# To do
+- Error handling
+- Log file rotation
